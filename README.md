@@ -43,5 +43,5 @@ Para ejecutar y probar este proyecto de manera local, es necesario tener instala
 
 ## Autor
 
-*   [Tu Nombre Completo]
+*   [Mejorado Martinez Juan Esteban]
 *   Ingeniería en Sistemas Computacionales
